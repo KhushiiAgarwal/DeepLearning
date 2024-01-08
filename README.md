@@ -1,8 +1,7 @@
-# MachineLearning
-ML projects done in Python and R.
-
-This contains project including
-### Breast Cancer Detection
-Using Linear, Logistic Regression, Decision Tree, Random Forest, Support Vector Machine and KNN with over 80% accuracy in all models. Data is visualised using seaborn
-
+# Deep Learning
+This contains projects including
 ### Time Series model using RNN
+A python project to deal with flight delay prediction over few years
+
+### Sustainable Products vs Non-Sustainable Products 
+A segregation and user buying habit analysis using Natural Language Understanding. 
