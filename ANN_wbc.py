@@ -4,9 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sn
 import sklearn
 import tensorflow as tf
-import matplotlib.pyplot as plt
-import seaborn as sn
-from sklearn.preprocessing import StandardScaler
 
 df=pd.read_csv("wbc_csv.csv")
 df.drop(['id'],axis=1,inplace=True)
@@ -19,7 +16,7 @@ df.describe()
 df.isnull().sum()
 
 """# One Hot Encoding"""
-
+from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import OneHotEncoder
 df['diagnosis']=df['diagnosis'].astype('category')
 df['diagnosistics']=df['diagnosis'].cat.codes
