@@ -13,14 +13,16 @@
 * Use Google Colab or Install Jupyter 
 * Run the **.ipnyb** file and ensure to give correct path for CSV
 * Now import dataset airline-passengers.csv from already available datasets in Google Colaboratory
-* If using Jupyter/Anaconda download dataset from: https://www.kaggle.com/datasets/rakannimer/air-passengers
+* If using Jupyter/Anaconda download dataset from:[https://www.kaggle.com/datasets/rakannimer/airline-passengers](https://www.kaggle.com/datasets/rakannimer/air-passengers)
 * Ensure dataset is present in same directory and specify the correct path
 
 ## Breast Cancer Prediction using ANN
 * This project performs data preprocessing like One Hot Encoding, CHI square test
 * It further performs cross validation and uses best result for accurate prediction of Breast Cancer
 * Artificial Neural Networks is used as base Deep Learning algorithm
-* 95.3% accuracy is achieved with ANN
+* 95.3% Accuracy is achieved with ANN
+* A heatmap is also depicted for visualizing prediction
+
 ### Setup
 * Clone the repo in local Github.
 * For **.py** file install latest version or upgrade to Python3
