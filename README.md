@@ -1,8 +1,9 @@
 # Deep Learning
 
 ## Tech Stack
-![ ](https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png)
-[![My Skills](https://skillicons.dev/icons?i=py,anaconda,jupyter)](https://skillicons.dev)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter logo"  />
+
 
 ## Time Series model using RNN
 * A python project to deal with flight delay prediction over a few years.
