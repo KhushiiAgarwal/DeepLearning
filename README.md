@@ -11,8 +11,9 @@
 
 
 ## Time Series model using RNN
-* A python project to deal with flight delay prediction over a few years.
-* It utilizes LSTM to predict flight delays after feauture selection.
+* A python project to deal with air-passengers per month prediction over 2 decades (1949-1960).
+* It utilizes LSTM to predict total air-passengers/month after feauture selection.
+* It has over 260+ rows and 2 columns for Time-series forecasting.
 * The Data visualization shows an almost accurate prediction
  ### Setup
 * Clone the repo in local Github.
