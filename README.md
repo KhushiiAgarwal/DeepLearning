@@ -1,8 +1,13 @@
 # Deep Learning
 
 ## Tech Stack
+<br clear="both">
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter logo"  />
+  <img width="12" />
 
 
 ## Time Series model using RNN
