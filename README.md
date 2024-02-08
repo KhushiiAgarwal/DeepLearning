@@ -32,7 +32,7 @@
 
 ### Setup
 * Clone the repo in local Github.
-* For **.py** file install latest version from python official website[https://www.python.org/downloads/] or upgrade to Python3
+* For **.py** file install latest version from python official website [Python](https://www.python.org/downloads/) or upgrade to Python3
 * Now download dataset from this repository and upload it to Google Colaboratory or set appropriate path in Jupyter
 * If using Jupyter/Anaconda download dataset from: [https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 * Install all libraries in terminal/Command Prompt (using cmd command on Windows)
